@@ -14,7 +14,7 @@ A Django application designed to integrate with the Business Central API. This p
 
 1. **Clone the Repository**
 
-       git clone https://github.com/yourusername/django-business-central-integration.git
+       git clone https://github.com/Mishaa931/Django-Business-Central-API-Integration-and-Celery.git
        cd django-business-central-integration
    
 2. **Create and Activate a Virtual Environment**
